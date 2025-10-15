@@ -1,7 +1,5 @@
 # FIAP - Faculdade de Informática e Administração Paulista
 
-![FIAP](https://www.fiap.com.br/wp-content/themes/fiap2016/images/logo-fiap.svg)
-
 ---
 
 ## **LeiteControl – Sistema de Gestão de Produção Leiteira**
