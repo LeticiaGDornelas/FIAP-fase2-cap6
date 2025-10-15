@@ -10,15 +10,6 @@
 ### **Integrante**
 - Letícia Dornelas    
 
-### **Professor(es)**
-- Nome do Professor
-
-### **Tutor(es)**
-- Nome do Tutor
-
-### **Coordenador(a)**
-- Nome do Coordenador
-
 ---
 
 ## 🧩 **Descrição**
