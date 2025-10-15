@@ -4,9 +4,6 @@
 
 ## **LeiteControl – Sistema de Gestão de Produção Leiteira**
 
-### **Nome do grupo**
-- Letícia Dornelas 
-
 ### **Integrante**
 - Letícia Dornelas    
 
