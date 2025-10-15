@@ -1,5 +1,5 @@
 # FIAP - Faculdade de Informática e Administração Paulista
-<img src="../assets/logo-fiap.png" alt="FIAP - Faculdade de Informática e Admnistração Paulista" border="0" width=30% height=30%>
+<img src="logo-fiap.png" alt="FIAP - Faculdade de Informática e Admnistração Paulista" border="0" width=30% height=30%>
 
 ---
 
