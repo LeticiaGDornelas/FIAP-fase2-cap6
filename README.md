@@ -26,12 +26,3 @@ Essa integração proporciona uma **gestão moderna, organizada e baseada em dad
 
 ---
 
-## 🗂️ **Estrutura de pastas**
-
-Dentro do repositório estão presentes as pastas e arquivos do projeto, conforme-se:
-/LeiteControl
-│
-├── /notebooks → Notebooks Colab com o código Python.
-├── /data → Arquivos de dados (.json, .txt) gerados.
-└── README.md → Documento principal de apresentação do projeto.
-
