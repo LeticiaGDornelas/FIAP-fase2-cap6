@@ -1,0 +1,10 @@
+RELATÓRIO — LEITECONTROL (2025-10-14)
+
+- 125 (sol) — média: 0.00 L/dia
+   ✓ Sem quedas relevantes
+- 127 (sol) — média: 0.00 L/dia
+   ✓ Sem quedas relevantes
+- A101 (Holandês) — média: 18.10 L/dia
+   ⚠ Queda em 2025-10-12: 29.3%
+
+Média do rebanho: 18.10 L/dia
